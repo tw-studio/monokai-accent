@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.0.6 — Better token colors for Markdown and Swift (2023-07-19)
+## 0.0.6, 0.0.7 — Better token colors for Markdown and Swift (2023-07-19)
 
 - [x] Improves token colorization for Markdown
 - [x] Improves token colorization for Swift
