@@ -3,10 +3,14 @@
 	"displayName": "Monokai Accents",
 	"description": "A dark Monokai theme with choice of accent color.",
 	"homepage": "https://github.com/tw-studio/monokai-accent",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"author": "tw",
 	"publisher": "tw",
 	"license": "MIT",
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
 	"contributes": {
 		"themes": [
 			{

@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/icon/monokai-accent-icon.png" width="160" />
+    <img src="https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/icon/monokai-accent-icon.png" width="160" />
     <h1 align="center">Monokai Accents</h2>
 </p>
 
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-![Monokai Accent Theme Switching Animation](assets/screenshots/animated-switcher.gif)
+![Monokai Accent Theme Switching Animation](https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/screenshots/animated-switcher.gif)
 
 * 🌒 Subtle dark neutral editor color scheme
 * 📚 Consistent Monokai palette across languages
@@ -37,42 +37,42 @@
 <br />
 <h3 align="center">Monokai +Blue</h3>
 
-![Monokai +Blue](assets/screenshots/monokai+blue.jpg)
+![Monokai +Blue](https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/screenshots/monokai+blue.jpg)
 
 <br />
 <h3 align="center">Monokai +Graphite</h3>
 
-![Monokai +Graphite](assets/screenshots/monokai+graphite.jpg)
+![Monokai +Graphite](https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/screenshots/monokai+graphite.jpg)
 
 <br />
 <h3 align="center">Monokai +Green</h3>
 
-![Monokai +Green](assets/screenshots/monokai+green.jpg)
+![Monokai +Green](https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/screenshots/monokai+green.jpg)
 
 <br />
 <h3 align="center">Monokai +Orange</h3>
 
-![Monokai +Orange](assets/screenshots/monokai+orange.jpg)
+![Monokai +Orange](https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/screenshots/monokai+orange.jpg)
 
 <br />
 <h3 align="center">Monokai +Pink</h3>
 
-![Monokai +Pink](assets/screenshots/monokai+pink.jpg)
+![Monokai +Pink](https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/screenshots/monokai+pink.jpg)
 
 <br />
 <h3 align="center">Monokai +Purple</h3>
 
-![Monokai +Purple](assets/screenshots/monokai+purple.jpg)
+![Monokai +Purple](https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/screenshots/monokai+purple.jpg)
 
 <br />
 <h3 align="center">Monokai +Red</h3>
 
-![Monokai +Red](assets/screenshots/monokai+red.jpg)
+![Monokai +Red](https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/screenshots/monokai+red.jpg)
 
 <br />
 <h3 align="center">Monokai +Yellow</h3>
 
-![Monokai +Yellow](assets/screenshots/monokai+yellow.jpg)
+![Monokai +Yellow](https://raw.githubusercontent.com/tw-studio/monokai-accent/main/assets/screenshots/monokai+yellow.jpg)
 
 ## Acknowledgements
 

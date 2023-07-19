@@ -1,10 +1,14 @@
 # Changelog
 
-## 0.0.5
+## 0.0.6 — Better token colors for Markdown and Swift (2023-07-19)
 
-- [Pink] Adds syntax highlighting for markdown setext
-- [ ] Adds syntax highlighting for yaml
-- [ ] MAY lighten twotone colors (2a2a2a to 2b2b2b)
+- [x] Improves token colorization for Markdown
+- [x] Improves token colorization for Swift
+
+## 0.0.5 — Clean up and new README (2023-07-19)
+
+- [x] Clean up
+- [x] Rewrites README
 
 ## 0.0.4
 
