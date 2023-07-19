@@ -1,56 +1,79 @@
-# Monokai Accents theme for VSCode
+<p align="center">
+    <img src="assets/icon/monokai-accent-icon.png" width="160" />
+    <h1 align="center">Monokai Accents</h2>
+</p>
 
-A dark Monokai theme with choice of accent color:
+<p align="center">A dark Monokai theme with choice of accent color.</p>
 
-```
-Blue ‧ Purple ‧ Pink ‧ Red ‧ Orange ‧ Yellow ‧ Green ‧ Graphite
-```
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=tw.monokai-accent">
+    <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/tw.monokai-accent?color=%231dd1e5&style=flat&logo=visualstudiocode">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=tw.monokai-accent">
+    <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/tw.monokai-accent?color=%23f5539e&style=flat&logo=visualstudiocode">
+  </a>
+  <a href="https://github.com/tw-studio/monokai-accent">
+    <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/tw.monokai-accent?color=%23f5822e&style=flat&logo=github">
+  </a>
+</p>
 
-Base colors are dark neutral. Accent palettes are inspired by macOS, and calibrated for VSCode.
+![Monokai Accent Theme Switching Animation](assets/screenshots/animated-switcher.gif)
 
-Aims to color like tokens consistently across languages in the excellent Monokai palette.
-
-Inspired by macOS, and Monokai Dark Soda and Remedy themes.
-
-## Screenshots
-
-### Monokai +Blue
-
-![Monokai +Blue](https://github.com/tw-space/monokai-accent/raw/master/assets/screenshots/monokai-accent-blue-theme-switcher.png)
-
-### Monokai +Purple
-
-![Monokai +Purple](https://github.com/tw-space/monokai-accent/raw/master/assets/screenshots/monokai-accent-purple-theme-switcher.png)
-
-### Monokai +Pink
-
-![Monokai +Pink](https://github.com/tw-space/monokai-accent/raw/master/assets/screenshots/monokai-accent-pink-theme-switcher.png)
-
-### Monokai +Red
-
-![Monokai +Red](https://github.com/tw-space/monokai-accent/raw/master/assets/screenshots/monokai-accent-red-theme-switcher.png)
-
-### Monokai +Orange
-
-![Monokai +Orange](https://github.com/tw-space/monokai-accent/raw/master/assets/screenshots/monokai-accent-orange-theme-switcher.png)
-
-### Monokai +Yellow
-
-![Monokai +Yellow](https://github.com/tw-space/monokai-accent/raw/master/assets/screenshots/monokai-accent-yellow-theme-switcher.png)
-
-### Monokai +Green
-
-![Monokai +Green](https://github.com/tw-space/monokai-accent/raw/master/assets/screenshots/monokai-accent-green-theme-switcher.png)
-
-### Monokai +Graphite
-
-![Monokai +Graphite](https://github.com/tw-space/monokai-accent/raw/master/assets/screenshots/monokai-accent-graphite-theme-switcher.png)
+* 🌒 Subtle dark neutral editor color scheme
+* 📚 Consistent Monokai palette across languages
+* 🎨 Choice of vibrant editor accent color: **Blue**, **Graphite**, **Green**, **Orange**, **Pink**, **Purple**, **Red**, **Yellow**
 
 ## Install
 
-1. In VSCode, switch to the Extensions panel `Ctrl/Cmd-Shift-X`, and search for:
-        
-        monokai-accent
+1.  Open the **Extensions sidebar** in VSCode (*Ctrl/Cmd-Shift-X*).
+2.  Search for **Monokai Accents**. Choose the one by **tw**.
+3.  Click the **Install** button.
+4.  Open the command palette (*Ctrl/Cmd-Shift-P*).
+5.  Launch the color theme switcher **Preferences: Color Theme**.
+6.  Choose your accent color (ex: **Monokai +Pink**)
 
-2. Install `Monokai Accents`
-3. Open the command palette `Ctrl/Cmd-Shift-P`, launch the color theme switcher `Preferences: Color Theme`, and enable your choice of accent color (e.g. `Monokai +Pink`)
+## Screenshots
+
+<br />
+<h3 align="center">Monokai +Blue</h3>
+
+![Monokai +Blue](assets/screenshots/monokai+blue.jpg)
+
+<br />
+<h3 align="center">Monokai +Graphite</h3>
+
+![Monokai +Graphite](assets/screenshots/monokai+graphite.jpg)
+
+<br />
+<h3 align="center">Monokai +Green</h3>
+
+![Monokai +Green](assets/screenshots/monokai+green.jpg)
+
+<br />
+<h3 align="center">Monokai +Orange</h3>
+
+![Monokai +Orange](assets/screenshots/monokai+orange.jpg)
+
+<br />
+<h3 align="center">Monokai +Pink</h3>
+
+![Monokai +Pink](assets/screenshots/monokai+pink.jpg)
+
+<br />
+<h3 align="center">Monokai +Purple</h3>
+
+![Monokai +Purple](assets/screenshots/monokai+purple.jpg)
+
+<br />
+<h3 align="center">Monokai +Red</h3>
+
+![Monokai +Red](assets/screenshots/monokai+red.jpg)
+
+<br />
+<h3 align="center">Monokai +Yellow</h3>
+
+![Monokai +Yellow](assets/screenshots/monokai+yellow.jpg)
+
+## Acknowledgements
+
+Inspired by macOS, and Monokai Dark Soda and Remedy themes.

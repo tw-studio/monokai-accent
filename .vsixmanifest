@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="monokai-accent" Version="0.0.4" Publisher="tw"/>
+    <Identity Language="en-US" Id="monokai-accent" Version="0.0.5" Publisher="tw"/>
     <DisplayName>Monokai Accents</DisplayName>
     <Description xml:space="preserve">A dark Monokai theme with choice of accent color.</Description>
     <Tags>monokai,dark,accent,accents,blue,graphite,green,orange,pink,purple,red,yellow,theme,color-theme</Tags>
@@ -14,14 +14,14 @@
       <Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
       
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/tw-space/monokai-accent.git" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/tw-space/monokai-accent.git" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/tw-studio/monokai-accent.git" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/tw-studio/monokai-accent.git" />
         
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/tw-space/monokai-accent.git" />
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/tw-studio/monokai-accent.git" />
         
       
-      <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/tw-space/monokai-accent/issues" />
-      <Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/tw-space/monokai-accent" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/tw-studio/monokai-accent/issues" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/tw-studio/monokai-accent" />
       
       
       <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />

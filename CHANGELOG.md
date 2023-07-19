@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.5
+
+- [Pink] Adds syntax highlighting for markdown setext
+- [ ] Adds syntax highlighting for yaml
+- [ ] MAY lighten twotone colors (2a2a2a to 2b2b2b)
+
 ## 0.0.4
 
 - [x] Standardizes debug icon colors
